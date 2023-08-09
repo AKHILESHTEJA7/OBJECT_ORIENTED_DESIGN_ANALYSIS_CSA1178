@@ -2,14 +2,10 @@
 <h3 align="center">𝒀𝑶𝑼𝑹 𝑰𝑵 𝑶𝑩𝑱𝑬𝑪𝑻 𝑶𝑹𝑰𝑬𝑵𝑻𝑬𝑫 𝑫𝑬𝑺𝑰𝑮𝑵 𝑨𝑵𝑫 𝑨𝑵𝑨𝑳𝒀𝑺𝑰𝑺,𝑷𝑳𝑬𝑨𝑺𝑬 𝑪𝑯𝑬𝑪𝑲 𝑰𝑵.</h3>
 # CSA1178-OOAD
 > ### Day 1
-> - Caesar Cipher
-> - Vignere Cipher
-
-> ### Day 2
 > - DES Algorithm
 > - RSA Algorithm
 
-> ### Day 3
+> ### Day 1
 > - Diffie-Hellman Key Exchange Algorithm
 <h3 align="left">Connect with me:</h3>
 <p align="left">
